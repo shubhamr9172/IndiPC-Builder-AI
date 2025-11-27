@@ -1,0 +1,5 @@
+{
+  "name": "IndiPC Builder AI",
+  "description": "An intelligent, step-by-step PC building wizard for the Indian market. It uses Gemini to recommend compatible parts from Amazon India, checks compatibility in real-time, and visualizes your rig as you build it.",
+  "requestFramePermissions": []
+}
